@@ -1,5 +1,5 @@
 # 💫 hello!
-i'm a software engineering student at mcmaster university! check out some of my projects here.<br>
+i'm jingyue, a second year software engineering student at mcmaster university! check out some of my projects here.<br>
 
 # 💗 currently i am:
 - learning about web development and machine learning
@@ -27,4 +27,4 @@ i'm a software engineering student at mcmaster university! check out some of my 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢻⣿⣆⠀⠀⠀⠀⠀⠀⢀⣀⣠⣤⣶⣾⣿⣿⣿⣿⣤⣄⣀⡀⠀⠀⠀⣿
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠻⢿⣻⣷⣶⣾⣿⣿⡿⢯⣛⣛⡋⠁⠀⠀⠉⠙⠛⠛⠿⣿⣿⡷⣶⣿
 
-connect with me on [linkedin](https://www.linkedin.com/in/jingyue-wu/) or view some cool photos [here](https://jingyuewu.me/gallery)!
+connect with me on [linkedin](https://www.linkedin.com/in/jingyue-wu/) and view some cool photos on [my website](https://jingyuewu.me/gallery)!
