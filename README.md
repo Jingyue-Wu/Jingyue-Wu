@@ -8,6 +8,5 @@ i'm jingyue, a second year software engineering student at mcmaster university! 
 - hosting events and workshops @ deltahacks
 - learning more about web development and machine learning
 - designing a keyboard
-- looking for summer 2024 internships!
-
+  
 connect with me on [linkedin](https://www.linkedin.com/in/jingyue-wu/) and view some cool photos on [my website](https://jingyuewu.xyz/gallery)!
