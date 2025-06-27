@@ -1,11 +1,14 @@
-![Maceng](https://github.com/Jingyue-Wu/Jingyue-Wu/assets/75918217/9f0d7e31-0493-4ecc-9e86-d4a7165b6416)
-
-# 💫 hello!
+# hello!
 i'm jingyue, a software engineering student at mcmaster university! check out some of my projects here.<br>
 
-# 💗 currently i am:
-- working on software controls @ mcmaster rocketry
-- hosting events and workshops @ deltahacks
+# currently i am:
+- building ai powered productivity tools for product designers
+- api governance and delivery @ bmo
+- hosting fun events and workshops @ deltahacks
+- software controls @ mcmaster rocketry
 - designing a keyboard
+- fixing my 3d printer
   
-connect with me on [linkedin](https://www.linkedin.com/in/jingyue-wu/) and view some cool photos on [my website](https://jingyuewu.com/gallery)!
+**connect with me on [linkedin](https://www.linkedin.com/in/jingyue-wu/) and view some cool photos on [my website](https://jingyuewu.com/gallery)!**
+
+<img width="851" alt="image" src="https://github.com/user-attachments/assets/8956753f-1b15-4d2b-91b6-0b33e13e680c" />
