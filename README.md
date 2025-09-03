@@ -1,13 +1,11 @@
 # hello!
-i'm jingyue, a software engineering student at mcmaster university! check out some of my projects here.<br>
+i'm jingyue, a software engineering student at mcmaster university. check out some of my projects here.<br>
 
 # currently i am:
-- building ai powered productivity tools for product designers
+- building ai powered productivity tools for product/industrial designers
 - api governance and delivery @ bmo
 - hosting fun events and workshops @ deltahacks
 - software controls @ mcmaster rocketry
-- designing a keyboard
-- fixing my 3d printer
   
 **connect with me on [linkedin](https://www.linkedin.com/in/jingyue-wu/) and view some cool photos on [my website](https://jingyuewu.com/gallery)!**
 
