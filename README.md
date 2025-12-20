@@ -1,5 +1,5 @@
 # hello! 👋
-i'm david (jingyue), a software engineering student at mcmaster university. check out some of my projects here.<br>
+i'm david, a software engineering student at mcmaster university. check out some of my projects here.<br>
 
 # currently i am:
 - building ai powered productivity [tools](https://gantry-pi.vercel.app/) for product/industrial designers 
