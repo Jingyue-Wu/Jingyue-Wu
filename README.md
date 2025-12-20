@@ -1,11 +1,13 @@
-# hello!
+# hello! 👋
 i'm david (jingyue), a software engineering student at mcmaster university. check out some of my projects here.<br>
 
 # currently i am:
-- building ai powered productivity tools for product/industrial designers
-- api governance and delivery @ bmo
+- building ai powered productivity [tools](https://gantry-pi.vercel.app/) for product/industrial designers 
+- online banking api governance @ bmo
 - hosting fun events and workshops @ deltahacks
 - software controls @ mcmaster rocketry
+- training for a half marathon
+- learning piano
   
 **connect with me on [linkedin](https://www.linkedin.com/in/jingyue-wu/) and view some cool photos on [my website](https://jingyuewu.com/gallery)!**
 
